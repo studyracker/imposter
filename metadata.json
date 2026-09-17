@@ -1,0 +1,6 @@
+{
+  "name": "Imposter",
+  "description": "A local multiplayer pass-the-phone party game where players must uncover the hidden imposter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
